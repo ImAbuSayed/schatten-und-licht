@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Schatten und Licht
+
+This log tracks the cryptographic history and versioning for the song **Schatten und Licht** (schatten-und-licht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T13:59:22.665996 | `v1` | `da5d65714577d48da3b2eff99d87158b50b46332d30be66704cfbdbe61fe18d1` | `c770c8c9bf0eb1858776e4ff3b67620c348aa6c3e0bdbcd881b297dc65178460` | `2026-06-28_schatten-und-licht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
