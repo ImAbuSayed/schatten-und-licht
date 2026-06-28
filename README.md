@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schatten-und-licht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Schatten und Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-und-licht/) |
+| **Get License** | [Music Rights & Licensing for Schatten und Licht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schatten-und-licht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Wir tauchen aus den Schatten ins Licht, nur du und ich
+> Deine Blicke machen süchtig, Shawty, Fokus nur auf dich
+> Lass die ganze Stadt jetzt schlafen, unser Vibe ist viel zu wild
+> Komm, wir driften durch die Late Night, bis sich jeder Traum erfüllt
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
